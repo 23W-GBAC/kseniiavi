@@ -1,5 +1,5 @@
 # What my blog would be about?
-theme: Hacker
+theme: HACKER
 There are two varients but they do not exclude each other.
 First variant:
 Create a data about as much medicine as i can so that it would be easy to search for its use, effects and other things that u search for.
