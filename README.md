@@ -4,4 +4,4 @@ While reading a book you saw at least ones how characters getting injuries or de
 
 Thats why i choose as my mission to search that up for you and finaly understand would famous books work if the medicine and physics would have worked there in traditional way.
 
-I chose to look through the world known books so that everybody could relate to the expirience. 
+I chose to look through the world known books so that everybody could relate to the expirience. Thus I will look through the Harry Potter books and see how would characters be affected in reall life.
