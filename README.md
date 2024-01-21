@@ -56,3 +56,23 @@ This book could have easily become the last for Ron and Harry, so we will contin
 
 
 # Third Book
+
+After hard times during the second book we are happily moving on and starting the next school year on a pretty good note. Not heading that far from the beginning Harry faced the first so called danger. If riding in the bus unfastened was deadly. For the context there were no proper sits just beds and the driver was called not the best, as he kept speeding up and then stopping almost immediately for passenger’s stops. Luckily harry himself was not hurt even though the possibility of that was extremely high, however harry was a bit concerned for other passengers who seem to not care at all about the manners of driving.
+
+The next frightening moment happened during the class of caring for magical creatures, the main Hogwarts bully and Harries enemy Draco Malfoy was hurt by the Hippogriff. As this is magical creature we may assume that we cannot say precisely how he would have been scratched. However we know for sure that its body and front paws were like eagles. The strength of an eagles grip vary from 21 kg/sm2 to 28 kg/sm2 which is not the lightest grip. But more than a serious scratch there would not be so Draco got the worst possible scenario however not even closely deadly. He was just lucky enough to hipogriph to scratch his arm and not face.
+
+The next injury I can hardly call so but the victim was again Draco Malfoy. He was joking about Hagrid(the teacher of caring for magical creatures) and how pathetic he is. And fairly enough he was immediately slapped in the face by Hermione. Nothing serious just a slap, so he probably just got a bruise or even nothing, because slap in not a serious combat move at all. 
+
+One of the most dangerous fights happened near the Weeping Willow with the black dog. In this accident Ron Wesley was heavenly injured twice. First he was bit by a dog in his arm. This injury we may consider as a not serious one as we know that the dog was not stray and was not rabies. So the worst Ron got a bite on his arm or a few scratches or bruises. However the second injurie is much more serious – he broke his leg and not in a nice way. “All they could see now was one of Ron's legs, which he had hooked around a root in an effort to stop the dog from pulling him farther underground – but a horrible crack cut the air like a gunshot; Ron's leg had broken, and a moment later, his foot vanished from sight.” From this paragraph we can definitely say that his fracture is not the best one. And in the book it is said that he just got the broken leg but in reality it could have been not just that but the open fracture that would have led to a blood loss and Ron most probably would also faint. So even though his injury was yet the worst that happened to any of kids though Harry also broke his arm in previous book but I think that the broken leg is much worse especially considering the situation that they were in trying to escape from a few deadly creatures – the dog and the willow, - while Harry was just attacked by enchanted ball.
+
+Apart from Ron - Herminie and Harry were also injured during this battle. Harry was knocked off by a dog but got mostly just bruises, and both Harry and Herminie were hit by a willow that we can count as hit with the rod or twig by human. Yes, it was most likely really painful but again nothing more serious than a couple of bruises and scratches as they escaped it really fast.  
+
+That was all for this book as we as usual don’t count the multiple injuries that were got by the main characters with the help of magic spells and magical creatures. We also don’t count the trauma that kids most likely got during these battles with multiple magical creatures that can suck up your soul. 
+
+To conclude this book I would say that Ron was most in danger and probably could have easily die from blood loss if the fracture was open. It seems like he got the most deadly challenges so far out of all main characters in this books. Well, we will wish him best in the next books and finish our analysis of the third book in Harry Potter series.
+
+
+
+
+# Forth Book
+
