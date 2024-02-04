@@ -7,7 +7,8 @@ Thats why i choose as my mission to search that up for you and finaly understand
 I chose to look through the world known books so that everybody could relate to the expirience. Thus I will look through the Harry Potter books and see how would characters be affected in reall life.
 
 
-# First Book
+## First Book
+______
 The first book in a Harry Potter series is "Harry Potter and the philosopher stone". Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 
 We will look closer on each case as the story goes.
@@ -37,8 +38,8 @@ These were all characters that were hurt in one or other way to gain any kind of
 
 
 
-# Second Book
-
+## Second Book
+______
 Now we are heading to the second book and to the new problems and deathly dangerous quests that are awaiting our now twelve year’s old kids. Without any further and due let’s just start we the injuries.
 But when I started to reread the book I found a few controversial moments, where students or professors were not really hurt at all but technically could have been heard really severally. For example, in chapter 5 when elf Dobby has blocked the entry column on platform 9 and ¾ so Ron and Harry just run into it on the full speed flying over their carriages. In the book they were just a bit hurt but nothing serious, however in reality it could have caused and more severe consequences like dislocation of a wrist. Though someone would have to try really hard to make that injury, still we should consider this possibility. 
 
@@ -55,8 +56,8 @@ To sum up this book I can definitely say that here main characters faced much mo
 This book could have easily become the last for Ron and Harry, so we will continue to count further dangers that they will meet. See you in the next book.
 
 
-# Third Book
-
+## Third Book
+______
 After hard times during the second book we are happily moving on and starting the next school year on a pretty good note. Not heading that far from the beginning Harry faced the first so called danger. If riding in the bus unfastened was deadly. For the context there were no proper sits just beds and the driver was called not the best, as he kept speeding up and then stopping almost immediately for passenger’s stops. Luckily harry himself was not hurt even though the possibility of that was extremely high, however harry was a bit concerned for other passengers who seem to not care at all about the manners of driving.
 
 The next frightening moment happened during the class of caring for magical creatures, the main Hogwarts bully and Harries enemy Draco Malfoy was hurt by the Hippogriff. As this is magical creature we may assume that we cannot say precisely how he would have been scratched. However we know for sure that its body and front paws were like eagles. The strength of an eagles grip vary from 21 kg/sm2 to 28 kg/sm2 which is not the lightest grip. But more than a serious scratch there would not be so Draco got the worst possible scenario however not even closely deadly. He was just lucky enough to hipogriph to scratch his arm and not face.
