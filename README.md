@@ -10,9 +10,9 @@ I chose to look through the world known books so that everybody could relate to 
 ___
 ## First Book
 
-![Harry Potter and the philosopher stone](https://rare-gallery.com/mocahbig/1327128-Harry-Potter-Daniel-RadcliffeHarry-Potter-And-The.jpg, "Harry Potter and the philosopher stone")
+![Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/assets/148862913/ff20b2a8-bea5-4669-9664-1e162532b508, "Harry Potter and the philosopher's stone")
 
-The first book in a Harry Potter series is ***"Harry Potter and the philosopher stone"***. Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
+The first book in a Harry Potter series is ***"Harry Potter and the philosopher's stone"***. Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 
 We will look closer on each case as the story goes.
 
@@ -20,13 +20,22 @@ First person, who was injured, appeared to be Neville Longbottom. And as the sto
 
 This happened during the first quidditch lesson at Hogwarts. Madam Hooch – their teacher gave clear instructions on the first move that they were supposed to learn – sit on the broom and fly a few meters up the ground. However Longbottom successfully failing the first task lost the control of his broom and fall down on the ground. 
 
-To understand the whole seriousness of situation we need to know how high he was in the air as there was no other factors affecting him accept from gravity we can predict the injuries. Professor said “few feet above the ground” where few means “more than one” or “more than three” as they are eleven years old kids we can count that they were supposed to fly around 2 or 1 meters up as 1 feet equals to 0,3048 meter. Than we include the words about the lost control and assume that he might have flew up a bit higher which I would make the highest of three meters as he slipped to the ground pretty fast and the process of flying up is rather smooth. 
+To understand the whole seriousness of situation we need to know how high he was in the air as there was no other factors affecting him accept from gravity we can predict the injuries. Professor said
+> “few feet above the ground”
+
+where few means “more than one” or “more than three” as they are eleven years old kids we can count that they were supposed to fly around 2 or 1 meters up as 1 feet equals to 0,3048 meter. Than we include the words about the lost control and assume that he might have flew up a bit higher which I would make the highest of three meters as he slipped to the ground pretty fast and the process of flying up is rather smooth. 
 
 Thus we would consider that he fell from the height of 3 meters. A person could not be heart severely when falling off that height even when it’s not jump. Neville was sitting on the broom so he was falling not on his legs one hundred present. The most in danger part was neck, spine and hands. But you are not supposed to broke your neck while falling prom that high on the ground so the worst thing that might have happen to him and eventually happened - he got his wrist broken. 
 
 In conclusion, I might say that this injury in pretty accurate to real life even though we cannot really check it directly due to lack of magic artefacts in especially my property unfortunately. Also, if somebody owns any types of broomsticks, or other artefacts, or plants, or animals that would be mentioned in this article you may send them to me to make this work even more accurate. I will check them all and tell my readers the whole truce about accuracy of real life experience in Harry Potter books.
 
-Second person, who was injured was Ron Weasley.  Strangely enough in this book Harry won’t be on the list. He fainted once but that was a curse, so we won’t count that. Back to Ron – during their operation for saving Philosopher’s Stone from Snape he was knocked out by a stone queen of chess. “She struck Ron hard around the head with her stone arm and he crashed to the floor. He looked as if he’d been knocked out.” So according to the explanation we can probably say that he was hit by a rock that fall on his head with some power. 
+![Madam Hooch](https://github.com/23W-GBAC/kseniiavi/assets/148862913/ac05f192-d26a-4c42-bc9a-2a570279d0dd, "Madam Hooch")
+
+
+Second person, who was injured was Ron Weasley.  Strangely enough in this book Harry won’t be on the list. He fainted once but that was a curse, so we won’t count that. Back to Ron – during their operation for saving Philosopher’s Stone from Snape he was knocked out by a stone queen of chess. 
+> “She struck Ron hard around the head with her stone arm and he crashed to the floor. He looked as if he’d been knocked out.”
+
+So according to the explanation we can probably say that he was hit by a rock that fall on his head with some power. 
 
 We will equate this situation to when a kid would be hit with a rock that somebody has thrown at them. So first step is to understand the size of the rock. As the chess were described as 
 > “all taller than they (kids) were and carved from what looked like black stone”
@@ -38,6 +47,9 @@ so at least at the speed of freefall which is 9,81 m/s2 so the power of the hit 
 
 Considering everything said before, if hit into the right part effect would be knocking person off but without proper knowledge it martial arts Ron would probably just feel pain but would not get any serious injurie. Although he was knocked off his injurie would probably be concussion that would last no longer than a few minutes just enough to leave him just fine in the chambers for only Herminie and Harry to go further.
 
+![Ron as a horseman](https://github.com/23W-GBAC/kseniiavi/assets/148862913/bbca980b-9642-4df6-9369-bce8288950e0, "Ron as a horseman")
+
+
 One last thing just for the Snape funs. As we know he was scratched by Fluffy at some point. He was said to “limping”, but how he should have been scratched to limp? As it turned out – not that hard. A few dip scratches that would cut bundles on his leg is enough. And as we know Fluffy is a huge three-headed dog so for him it is also not a problem to scratch Snape that hard even without struggling or repeating the movement.
 
 Thus, we can say that he probably was not faking it, and the pain was real too. Such injuries are pretty fast to cure themselves and as we know that they are wizards his bundles were probably fine in a few days. 
@@ -48,7 +60,7 @@ These were all characters that were hurt in one or other way to gain any kind of
 ___
 ## Second Book
 
-![Harry Potter and chamber of secrets](https://rare-gallery.com/thumbnail/1327130-Daniel-Radcliffe-Harry-Potter-Emma-Watson-Hermione.jpg, "Harry Potter and chamber of secrets")
+![Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/assets/148862913/16006982-7166-45c5-811a-16b124531e50, "Harry Potter and chamber of secrets")
 
 Now we are heading to the second book and to the new problems and deathly dangerous quests that are awaiting our now twelve year’s old kids. Without any further and due let’s just start we the injuries.
 But when I started to reread the book I found a few controversial moments, where students or professors were not really hurt at all but technically could have been heard really severally. For example, in chapter 5 when elf Dobby has blocked the entry column on platform 9 and ¾ so Ron and Harry just run into it on the full speed flying over their carriages. In the book they were just a bit hurt but nothing serious, however in reality it could have caused and more severe consequences like dislocation of a wrist. Though someone would have to try really hard to make that injury, still we should consider this possibility. 
@@ -56,6 +68,9 @@ But when I started to reread the book I found a few controversial moments, where
 Another controversial thing is the scene with the wimping willow and flying car. Boys landed on a living tree that was mad with them and started throwing its brunches on them sitting inside of the car and the only thing that they were left with were Ron’s broken magic wand and slight shock. And I would doubt that tree was so specific to not hit them or that they were that cool to dodge every single hit of the willow. Also, considering that the tree was hitting with the power of average person power and it was hitting as it was somebody holding bat. So then a few powerful hits on the roof and it would be already highly dangerous to be inside of the car as every other hit could have been on the head of one of them probably making unconscious. The same thing is with the windows as they could have been broken with bat easily enough making next target kids heads. However, weeping willow completely ignores all of these possibilities, hopefully, on purpose as she understands that they are just kids and she was not made for killing just for scaring and even hurting then just a little. Ok, now after discussing these controversial scenes we can move on to the actual injuries.
 
 The first severely injury is finally getting the main character – Harry James Potter. During the quiddich match in 10th chapter he was chased by cursed blundger that was bewitched by Dobby the elf, and eventually had his arm broken. Well the flying ball that can speed as fast as he wants, most probably cannot only break someone’s arm but also cause something even more serious. But back to the topic, we don’t know its speed during this moment so we will consider that everything is accurate either the way, the speed or even the angle. 
+
+![Harry on a broom](https://github.com/23W-GBAC/kseniiavi/assets/148862913/370b95f9-c258-4c70-8d94-d727cffd97ca, "Harry on a broom")
+
 
 However Harry didn’t manage to avoid further injuries. In Chamber of Secrets when he was defeating the basilisk he was poisoned, but again, as we don’t have any comparison to any living snake’s poison we cannot say how strong it was. But the thing that bothers me more is the size of the fang that this giant snake left in Harry’s arm. As we know he took it out of his hand which means that blood was coming out. In arm there is a very important artery and if it would have been even a little bit touched Harry would lose a lot of blood in a very short period of time and then fainted. And as he didn’t know how deep he was bit it was the worst idea to pull out the fang even though it was poisoned. And as there are no consequences of that it is strange.
 
@@ -69,7 +84,7 @@ This book could have easily become the last for Ron and Harry, so we will contin
 ___
 ## Third Book
 
-![Harry Potter and prisoner of azkaban](https://rare-gallery.com/thumbnail/1327129-Sirius-Black-Gary-OldmanHarry-Potter-And-The-Prisoner.jpg, "Harry Potter and prisoner of azkaban")
+![Harry Potter and prisoner of azkaban](https://github.com/23W-GBAC/kseniiavi/assets/148862913/15a6730e-3561-418f-bfff-789739439866, "Harry Potter and prisoner of azkaban")
 
 After hard times during the second book we are happily moving on and starting the next school year on a pretty good note. Not heading that far from the beginning Harry faced the first so called danger. If riding in the bus unfastened was deadly. For the context there were no proper sits just beds and the driver was called not the best, as he kept speeding up and then stopping almost immediately for passenger’s stops. Luckily harry himself was not hurt even though the possibility of that was extremely high, however harry was a bit concerned for other passengers who seem to not care at all about the manners of driving.
 
