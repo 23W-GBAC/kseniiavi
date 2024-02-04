@@ -8,7 +8,7 @@ I chose to look through the world known books so that everybody could relate to 
 
 
 ## First Book
-______
+__
 The first book in a Harry Potter series is "Harry Potter and the philosopher stone". Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 
 We will look closer on each case as the story goes.
