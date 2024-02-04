@@ -25,7 +25,7 @@ def extract_headlines(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as readme_file:
             for line in readme_file:
-                # Use a regular expression to match Markdown-style headlines (lines starting with #)
+                # Use a regular expression to match Markdown-style headlines (lines starting with ##)
                 match = re.match(r'^##\s+(.+)', line)
                 if match:
                     headline = match.group(1)
@@ -38,19 +38,15 @@ def extract_headlines(file_path):
 
 
 if __name__ == "__main__":
-    # Replace 'path/to/your/README.md' with the actual path to your README file
+    # Path to README file
     readme_path = input("Enter the path to your README file: ")
-    # C:\Users\79163\Desktop\Универ\дз\kseniiavi-main\README.md
     headlines = extract_headlines(readme_path)
 
     if headlines:
-#        print("Extracted link:")
-#        for headline in headlines:
-        Number = int(input("Type the number of the book: ")) - 1
-
-        query_to_search = str(headlines[Number]) + " " + "read"
+        number = int(input("Type the number of the book: ")) - 1
+        query_to_search = str(headlines[number]) + " " + "read"
         pdf_url = get_first_google_link(query_to_search)
-#        print(pdf_url)
+
     else:
         print("No headlines found.")
 
