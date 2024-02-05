@@ -10,7 +10,7 @@ I chose to look through the world known books so that everybody could relate to 
 ___
 ## [First Book](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py)
 
-![Harry Potter and the philosopher's stone](https://rare-gallery.com/thumbnail/1327128-Harry-Potter-Daniel-RadcliffeHarry-Potter-And-The.jpg, "Harry Potter and the philosopher's stone")
+![Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/assets/148862913/bea5a993-fe0f-4012-894d-fffed764d4a0, "Harry Potter and the philosopher's stone")
 
 The first book in a Harry Potter series is ***"Harry Potter and the philosopher's stone"***. Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 
@@ -29,7 +29,7 @@ Thus we would consider that he fell from the height of 3 meters. A person could 
 
 In conclusion, I might say that this injury in pretty accurate to real life even though we cannot really check it directly due to lack of magic artefacts in especially my property unfortunately. Also, if somebody owns any types of broomsticks, or other artefacts, or plants, or animals that would be mentioned in this article you may send them to me to make this work even more accurate. I will check them all and tell my readers the whole truce about accuracy of real life experience in Harry Potter books.
 
-![Madam Hooch](https://i.pinimg.com/originals/66/7e/cf/667ecf7d75b0e38a7924240edd1462aa.gif, "Madam Hooch")
+![Madam Hooch](https://github.com/23W-GBAC/kseniiavi/assets/148862913/1c6c7a00-dfec-427e-af80-f1154badeee4, "Madam Hooch")
 
 
 Second person, who was injured was Ron Weasley.  Strangely enough in this book Harry won’t be on the list. He fainted once but that was a curse, so we won’t count that. Back to Ron – during their operation for saving Philosopher’s Stone from Snape he was knocked out by a stone queen of chess. 
@@ -47,7 +47,7 @@ so at least at the speed of freefall which is 9,81 m/s2 so the power of the hit 
 
 Considering everything said before, if hit into the right part effect would be knocking person off but without proper knowledge it martial arts Ron would probably just feel pain but would not get any serious injurie. Although he was knocked off his injurie would probably be concussion that would last no longer than a few minutes just enough to leave him just fine in the chambers for only Herminie and Harry to go further.
 
-![Ron as a horseman](https://1.bp.blogspot.com/-1NrUK14fJLw/VqEc7ND8bSI/AAAAAAAADDs/fiuXuCHzD78/s320/ron-knight.jpg, "Ron as a horseman")
+![Ron as a horseman](https://camo.githubusercontent.com/4798a622edd31e32d5725de74a938170a213766c9ed222a9ad92b786bfc28b50/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d314e72554b3134664a4c772f56714563374e44386253492f41414141414141414444732f666975587543487a4437382f733332302f726f6e2d6b6e696768742e6a70672c, "Ron as a horseman")
 
 
 One last thing just for the Snape funs. As we know he was scratched by Fluffy at some point. He was said to “limping”, but how he should have been scratched to limp? As it turned out – not that hard. A few dip scratches that would cut bundles on his leg is enough. And as we know Fluffy is a huge three-headed dog so for him it is also not a problem to scratch Snape that hard even without struggling or repeating the movement.
@@ -60,7 +60,7 @@ These were all characters that were hurt in one or other way to gain any kind of
 ___
 ## Second Book
 
-![Harry Potter and chamber of secrets](https://rare-gallery.com/thumbnail/1327130-Daniel-Radcliffe-Harry-Potter-Emma-Watson-Hermione.jpg, "Harry Potter and chamber of secrets")
+![Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/assets/148862913/7524c81d-210c-462f-ab34-44ab5acba3b3, "Harry Potter and chamber of secrets")
 
 Now we are heading to the second book and to the new problems and deathly dangerous quests that are awaiting our now twelve year’s old kids. Without any further and due let’s just start we the injuries.
 But when I started to reread the book I found a few controversial moments, where students or professors were not really hurt at all but technically could have been heard really severally. For example, in chapter 5 when elf Dobby has blocked the entry column on platform 9 and ¾ so Ron and Harry just run into it on the full speed flying over their carriages. In the book they were just a bit hurt but nothing serious, however in reality it could have caused and more severe consequences like dislocation of a wrist. Though someone would have to try really hard to make that injury, still we should consider this possibility. 
@@ -69,7 +69,7 @@ Another controversial thing is the scene with the wimping willow and flying car.
 
 The first severely injury is finally getting the main character – Harry James Potter. During the quiddich match in 10th chapter he was chased by cursed blundger that was bewitched by Dobby the elf, and eventually had his arm broken. Well the flying ball that can speed as fast as he wants, most probably cannot only break someone’s arm but also cause something even more serious. But back to the topic, we don’t know its speed during this moment so we will consider that everything is accurate either the way, the speed or even the angle. 
 
-![Harry on a broom](https://cdn3.whatculture.com/images/2014/08/quid1-600x338.gif, "Harry on a broom")
+![Harry on a broom](https://github.com/23W-GBAC/kseniiavi/assets/148862913/d1e3c5bd-aaf2-4e2b-97e2-bd85c089b40c, "Harry on a broom")
 
 
 However Harry didn’t manage to avoid further injuries. In Chamber of Secrets when he was defeating the basilisk he was poisoned, but again, as we don’t have any comparison to any living snake’s poison we cannot say how strong it was. But the thing that bothers me more is the size of the fang that this giant snake left in Harry’s arm. As we know he took it out of his hand which means that blood was coming out. In arm there is a very important artery and if it would have been even a little bit touched Harry would lose a lot of blood in a very short period of time and then fainted. And as he didn’t know how deep he was bit it was the worst idea to pull out the fang even though it was poisoned. And as there are no consequences of that it is strange.
@@ -84,7 +84,7 @@ This book could have easily become the last for Ron and Harry, so we will contin
 ___
 ## Third Book
 
-![Harry Potter and prisoner of azkaban](https://rare-gallery.com/thumbnail/1327129-Sirius-Black-Gary-OldmanHarry-Potter-And-The-Prisoner.jpg, "Harry Potter and prisoner of azkaban")
+![Harry Potter and prisoner of azkaban](https://github.com/23W-GBAC/kseniiavi/assets/148862913/011fcbe4-55ee-4d90-a90e-98ea34318432, "Harry Potter and prisoner of azkaban")
 
 After hard times during the second book we are happily moving on and starting the next school year on a pretty good note. Not heading that far from the beginning Harry faced the first so called danger. If riding in the bus unfastened was deadly. For the context there were no proper sits just beds and the driver was called not the best, as he kept speeding up and then stopping almost immediately for passenger’s stops. Luckily harry himself was not hurt even though the possibility of that was extremely high, however harry was a bit concerned for other passengers who seem to not care at all about the manners of driving.
 
@@ -99,7 +99,7 @@ From this paragraph we can definitely say that his fracture is not the best one.
 
 Apart from Ron - Herminie and Harry were also injured during this battle. Harry was knocked off by a dog but got mostly just bruises, and both Harry and Herminie were hit by a willow that we can count as hit with the rod or twig by human. Yes, it was most likely really painful but again nothing more serious than a couple of bruises and scratches as they escaped it really fast.  
 
-![Weaping Willow](https://github.com/23W-GBAC/kseniiavi/assets/148862913/bfb93bba-3315-4eb6-87a0-bd597567d81b)
+![Weaping Willow](https://private-user-images.githubusercontent.com/148862913/302254432-bfb93bba-3315-4eb6-87a0-bd597567d81b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxMjg4NDcsIm5iZiI6MTcwNzEyODU0NywicGF0aCI6Ii8xNDg4NjI5MTMvMzAyMjU0NDMyLWJmYjkzYmJhLTMzMTUtNGViNi04N2EwLWJkNTk3NTY3ZDgxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNVQxMDIyMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjk4NTAwMDdkNDM1ODFhZTIzMzQ0ZmRlODdlZDc0NDcwNGRmZmQwZjlhZGIwNmU0NDA3NzliNWI2NWY2NWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wJUjl_V2iTwET0R201eABcdLtDH3p_qwszXEsUkGtiA, "Weaping Willow")
 
 That was all for this book as we as usual don’t count the multiple injuries that were got by the main characters with the help of magic spells and magical creatures. We also don’t count the trauma that kids most likely got during these battles with multiple magical creatures that can suck up your soul. 
 
