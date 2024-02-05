@@ -1,4 +1,4 @@
-# <p align="center"> What would happen if the real life would work in books? </p>
+ <p align="center"> What would happen if the real life would work in books? </p>
 
 <p align="justify">
   While reading a book you saw at least ones how characters getting injuries or deseases and how they cope with them. And at least onece you wandered is it really how it happens in real life? The thinng  is that you eventually never search for that kind of information as it is perfectly working inside the story.
