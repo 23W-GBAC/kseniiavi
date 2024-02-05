@@ -99,7 +99,7 @@ From this paragraph we can definitely say that his fracture is not the best one.
 
 Apart from Ron - Herminie and Harry were also injured during this battle. Harry was knocked off by a dog but got mostly just bruises, and both Harry and Herminie were hit by a willow that we can count as hit with the rod or twig by human. Yes, it was most likely really painful but again nothing more serious than a couple of bruises and scratches as they escaped it really fast.  
 
-![Weaping Willow](kseniiavi/willow.md, "Weaping Willow")
+![Weaping Willow](willow.md, "Weaping Willow")
 
 That was all for this book as we as usual don’t count the multiple injuries that were got by the main characters with the help of magic spells and magical creatures. We also don’t count the trauma that kids most likely got during these battles with multiple magical creatures that can suck up your soul. 
 
