@@ -8,7 +8,7 @@ I chose to look through the world known books so that everybody could relate to 
 
 
 ___
-## First Book
+## [First Book](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py)
 
 ![Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/assets/148862913/ff20b2a8-bea5-4669-9664-1e162532b508, "Harry Potter and the philosopher's stone")
 
