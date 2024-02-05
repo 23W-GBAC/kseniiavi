@@ -47,8 +47,7 @@ so at least at the speed of freefall which is 9,81 m/s2 so the power of the hit 
 
 Considering everything said before, if hit into the right part effect would be knocking person off but without proper knowledge it martial arts Ron would probably just feel pain but would not get any serious injurie. Although he was knocked off his injurie would probably be concussion that would last no longer than a few minutes just enough to leave him just fine in the chambers for only Herminie and Harry to go further.
 
-![Ron as a horseman](https://camo.githubusercontent.com/4798a622edd31e32d5725de74a938170a213766c9ed222a9ad92b786bfc28b50/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d314e72554b3134664a4c772f56714563374e44386253492f41414141414141414444732f666975587543487a4437382f733332302f726f6e2d6b6e696768742e6a70672c, "Ron as a horseman")
-
+![Ron as a horseman](https://github.com/23W-GBAC/kseniiavi/assets/148862913/94307b3a-24c2-4c1d-b189-b09b71a9528b, "Ron as a horseman")
 
 One last thing just for the Snape funs. As we know he was scratched by Fluffy at some point. He was said to “limping”, but how he should have been scratched to limp? As it turned out – not that hard. A few dip scratches that would cut bundles on his leg is enough. And as we know Fluffy is a huge three-headed dog so for him it is also not a problem to scratch Snape that hard even without struggling or repeating the movement.
 
@@ -99,7 +98,7 @@ From this paragraph we can definitely say that his fracture is not the best one.
 
 Apart from Ron - Herminie and Harry were also injured during this battle. Harry was knocked off by a dog but got mostly just bruises, and both Harry and Herminie were hit by a willow that we can count as hit with the rod or twig by human. Yes, it was most likely really painful but again nothing more serious than a couple of bruises and scratches as they escaped it really fast.  
 
-![Weaping Willow](https://private-user-images.githubusercontent.com/148862913/302254432-bfb93bba-3315-4eb6-87a0-bd597567d81b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxMjg4NDcsIm5iZiI6MTcwNzEyODU0NywicGF0aCI6Ii8xNDg4NjI5MTMvMzAyMjU0NDMyLWJmYjkzYmJhLTMzMTUtNGViNi04N2EwLWJkNTk3NTY3ZDgxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNVQxMDIyMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjk4NTAwMDdkNDM1ODFhZTIzMzQ0ZmRlODdlZDc0NDcwNGRmZmQwZjlhZGIwNmU0NDA3NzliNWI2NWY2NWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wJUjl_V2iTwET0R201eABcdLtDH3p_qwszXEsUkGtiA, "Weaping Willow")
+![Weaping Willow](https://github.com/23W-GBAC/kseniiavi/assets/148862913/20c2c455-f8aa-4038-a23c-5cc1f1c4c0ef, "Weaping Willow")
 
 That was all for this book as we as usual don’t count the multiple injuries that were got by the main characters with the help of magic spells and magical creatures. We also don’t count the trauma that kids most likely got during these battles with multiple magical creatures that can suck up your soul. 
 
