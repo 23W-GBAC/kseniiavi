@@ -10,7 +10,7 @@ I chose to look through the world known books so that everybody could relate to 
 ___
 ## [Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py)
 
-![Harry Potter and the philosopher's stone](https://rare-gallery.com/mocahbig/1327128-Harry-Potter-Daniel-RadcliffeHarry-Potter-And-The.jpg "Harry Potter and the philosopher's stone")
+![Harry Potter and the philosopher's stone](http://images1.resources.foxtel.com.au/store2/mount1/16/3/9fztd.jpg "Harry Potter and the philosopher's stone")
 
 The first book in a Harry Potter series is ***"Harry Potter and the philosopher's stone"***. Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 
