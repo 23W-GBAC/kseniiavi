@@ -17,7 +17,7 @@ ___
 ![Harry Potter and the philosopher's stone](http://images1.resources.foxtel.com.au/store2/mount1/16/3/9fztd.jpg "Harry Potter and the philosopher's stone")
 
 <p align="justify">
-The first book in a Harry Potter series is ***"Harry Potter and the philosopher's stone"***. Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
+The first book in a Harry Potter series is "Harry Potter and the philosopher's stone". Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 </p>
 We will look closer on each case as the story goes.
 <p align="justify">
