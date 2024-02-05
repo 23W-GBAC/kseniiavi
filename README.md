@@ -12,10 +12,10 @@
 
 
 ___
-## <p align="center"> [Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
+# <p align="center"> [Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
 
 ![Harry Potter and the philosopher's stone](http://images1.resources.foxtel.com.au/store2/mount1/16/3/9fztd.jpg "Harry Potter and the philosopher's stone")
-
+## Harry Potter and the philosopher's stone
 <p align="justify">
 The first book in a Harry Potter series is "Harry Potter and the philosopher's stone". Main characters there are still kids so there are not that many injuries in the book. However three people eventually were hurt there. 
 </p>
@@ -89,9 +89,10 @@ These were all characters that were hurt in one or other way to gain any kind of
 </p>
 
 ___
-## <p align="center"> [Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
+# <p align="center"> [Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
 
 ![Harry Potter and chamber of secrets](https://w.forfun.com/fetch/cf/cfd0741adbce405abc7affc525d8a601.jpeg "Harry Potter and chamber of secrets")
+## Harry Potter and chamber of secrets
 <p align="justify">
 Now we are heading to the second book and to the new problems and deathly dangerous quests that are awaiting our now twelve year’s old kids. Without any further and due let’s just start we the injuries.
 But when I started to reread the book I found a few controversial moments, where students or professors were not really hurt at all but technically could have been heard really severally. For example, in chapter 5 when elf Dobby has blocked the entry column on platform 9 and ¾ so Ron and Harry just run into it on the full speed flying over their carriages. In the book they were just a bit hurt but nothing serious, however in reality it could have caused and more severe consequences like dislocation of a wrist. Though someone would have to try really hard to make that injury, still we should consider this possibility. 
@@ -119,9 +120,10 @@ This book could have easily become the last for Ron and Harry, so we will contin
 </p>
 
 ___
-## <p align="center"> [Harry Potter and prisoner of azkaban](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
+# <p align="center"> [Harry Potter and prisoner of Azkaban](https://github.com/23W-GBAC/kseniiavi/blob/main/open_pdf_for_the_book.py) </p>
 
 ![Harry Potter and prisoner of azkaban](https://w.forfun.com/fetch/6e/6e364d7548651ee1f30d21a3d7e5fe22.jpeg "Harry Potter and prisoner of azkaban")
+## Harry Potter and prisoner of Azkaban
 <p align="justify">
 After hard times during the second book we are happily moving on and starting the next school year on a pretty good note. Not heading that far from the beginning Harry faced the first so called danger. If riding in the bus unfastened was deadly. For the context there were no proper sits just beds and the driver was called not the best, as he kept speeding up and then stopping almost immediately for passenger’s stops. Luckily harry himself was not hurt even though the possibility of that was extremely high, however harry was a bit concerned for other passengers who seem to not care at all about the manners of driving.
 </p>
