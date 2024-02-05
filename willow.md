@@ -1,1 +1,0 @@
-![Willow](https://pa1.narvii.com/6204/c2909ae1dd16d53ff4556e9f4d19a117aaf6f5ab_hq.gif, "Willow")
