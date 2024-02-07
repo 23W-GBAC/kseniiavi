@@ -1,4 +1,4 @@
-# <p align="center"> What would happen if the real life would work in books? </p>
+# What would happen if the real life would work in books?
 
 <p align="justify">
   While reading a book you saw at least ones how characters getting injuries or diseases and how they cope with them. And at least once you wandered is it really how it happens in real life? The thing is that you eventually never search for that kind of information as it is perfectly working inside the story.
@@ -25,7 +25,7 @@
 
 
 ___
-# <p align="center"> [Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py) </p>
+# [Harry Potter and the philosopher's stone](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py)
 
 ![Harry Potter and the philosopher's stone](http://images1.resources.foxtel.com.au/store2/mount1/16/3/9fztd.jpg "Harry Potter and the philosopher's stone")
 ## Harry Potter and the philosopher's stone
@@ -102,7 +102,7 @@ These were all characters that were hurt in one or other way to gain any kind of
 </p>
 
 ___
-# <p align="center"> [Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py) </p>
+# [Harry Potter and chamber of secrets](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py) 
 
 ![Harry Potter and chamber of secrets](https://w.forfun.com/fetch/cf/cfd0741adbce405abc7affc525d8a601.jpeg "Harry Potter and chamber of secrets")
 ## Harry Potter and chamber of secrets
@@ -133,7 +133,7 @@ This book could have easily become the last for Ron and Harry, so we will contin
 </p>
 
 ___
-# <p align="center"> [Harry Potter and prisoner of Azkaban](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py) </p>
+# [Harry Potter and prisoner of Azkaban](https://github.com/23W-GBAC/kseniiavi/blob/main/extract_headlines.py) 
 
 ![Harry Potter and prisoner of azkaban](https://w.forfun.com/fetch/6e/6e364d7548651ee1f30d21a3d7e5fe22.jpeg "Harry Potter and prisoner of azkaban")
 ## Harry Potter and prisoner of Azkaban
